@@ -71,7 +71,7 @@ Hi, I am trying to become a nice developer😎
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=piriram)](https://solved.ac/piriram)<br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piriram&layout=compact)](https://github.com/piriram/github-readme-stats)
 <br/><br/><br/>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiriram&count_bg=%23FFE32A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
 <!--깃허브
