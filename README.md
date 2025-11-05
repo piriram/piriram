@@ -20,7 +20,7 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 - 현재 관심사: **watchOS · SwiftData · CloudKit · Clean Architecture**
 - 혼자서도 서버부터 클라이언트까지 구현 가능 (Firebase Functions, Spring)
 - 사용자 경험과 인터랙션을 설계하는 걸 좋아합니다.
-- 사이드 프로젝트: “두섭이”, “필링”, “시장에 가면”, “라이너”, “키득이”
+- 사이드 프로젝트: “두섭이”, “필링”, "프레임밋" , “시장에 가면”, “라이너”, “키득”
 
 ---
 
@@ -55,7 +55,7 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 | **두섭이** | 파도 기록/통계 앱 | iOS, 백엔드 | [GitHub](https://github.com/piriram/DoSurf-iOS) |
 | **필링** | 약 복용 주기 관리 앱 | iOS | [GitHub](https://github.com/piriram/Pilling-iOS) |
 | **프레임밋** | K-Pop 팬덤 앱 | iOS | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) |
-| **시장에 가면** | 전통시장 소개 앱 | iOS | [GitHub]([https://github.com/yourname/PillingApp](https://github.com/piriram/MarketGo)) |
+| **시장에 가면** | 전통시장 소개 앱 | iOS | [GitHub](https://github.com/piriram/MarketGo) |
 | **라이너** | 커뮤니티 + 로깅 앱 | iOS, 백엔드 | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon) |
 | **키득** | 어린이 핀테크 교육 앱 | iOS, 백엔드 | - |
 
