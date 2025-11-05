@@ -26,23 +26,38 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
+
+<!-- 개발 중심 스택 -->
+<p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase%20Functions-FFA611?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/CloudKit-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/CoreML-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Vision-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudKit-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/watchOS-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+<!-- 운영 및 도구 스택 -->
+<p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/AdMob-FF6F00?style=for-the-badge&logo=googleads&logoColor=white" />
 </p>
+
+</div>
+
 
 
 | 카테고리 | 기술 |
