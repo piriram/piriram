@@ -78,7 +78,7 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 ## Contact
 
 **Email:** [pyoram25@naver.com](mailto:pyoram25@naver.com)  
-**Blog:** [velog.io/@pirirram22](https://velog.io/@pirirram22)
+**Blog:** [velog.io/@pirirram22](https://velog.io/@piriram22)
 
 ---
 
