@@ -82,8 +82,6 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 
 ## Projects
 
-## Projects
-
 | 이름 | 설명 | 역할 | 기술 스택 | 링크 |
 |------|------|------|-----------|------|
 | **두섭이** | 파도 기록/통계 앱 | iOS, 백엔드 | Swift · RxSwift · MVVM · Firestore · Cloud Functions | [GitHub](https://github.com/piriram/DoSurf-iOS) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
