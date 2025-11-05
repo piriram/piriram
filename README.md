@@ -18,7 +18,7 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 
 - 주 사용 스택: **Swift · UIKit · RxSwift · MVVM**
 - 현재 관심사: **watchOS · SwiftData · CloudKit · Clean Architecture**
-- 혼자서도 서버부터 클라이언트까지 구현 가능 (Firebase Functions, Spring)
+- 혼자서도 서버부터 클라이언트까지 구현 가능 (Firebase Functions)
 - 사용자 경험과 인터랙션을 설계하는 걸 좋아합니다.
 - 사이드 프로젝트: “두섭이”, “필링”, "프레임밋" , “시장에 가면”, “라이너”, “키득”
 
