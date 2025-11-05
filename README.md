@@ -1,86 +1,91 @@
+<div align="center">
 
-<!--
-### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiriram&count_bg=%2346A0BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+![header](./assets/header.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriram&theme=gruvbox_light&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piriram&langs_count=8)](https://github.com/piriram/github-readme-stats)
+# 🍎 iOS Developer — 김소람
+_유저의 일상을 바꾸는 경험을 설계하는 개발자입니다._  
+Swift로 현실을 코드로 옮기는 과정을 즐깁니다.  
+현재는 **다이버들을 위한 watchOS 앱**을 개발 중입니다. 🏝️  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiriram&count_bg=%2346A0BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@pirirram22)
+[![Mail Badge](https://img.shields.io/badge/Email-ram@example.com-D14836?logo=gmail&logoColor=white)](mailto:ram@example.com)
 
-**piriram/piriram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20ram&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
-
-<div align=center>
-<!--소개-->
-
-## Introduction :raised_hands:
-Hi, I am trying to become a nice developer😎
-<br/><br/>
- 
- 
- <!--기술스택-->
-  ## Skill :four_leaf_clover:
-
-  <!--프론트-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-   <br/>
-  <!--백-->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <br/>
-  <!--언어 및 툴 -->
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<br/><br/>
-  
- <!--공부중 -->
- 
-  ## Studying :pencil2:
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <!--백-->
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <!--언어 및 툴 --> <br/>
-
- <br/>
- <br/>
-  
- <!--알고리즘 -->
- <a href="https://github.com/piriram/Algorithm" >
- 
- ## Problem Solving :muscle:
- </a>
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=piriram)](https://solved.ac/piriram)<br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piriram&langs_count=8)](https://github.com/piriram/github-readme-stats)
-<br/><br/><br/>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiriram&count_bg=%23FFE32A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  <br>
-<!--깃허브
-<h3>Github :eyes: </h3>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiriram&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriram&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/><br/> -->
-  
- 
 </div>
 
+---
+
+## 🚀 About Me
+
+- 🎯 주 사용 스택: **Swift · UIKit · RxSwift · MVVM**
+- 🌱 현재 관심사: **watchOS, SwiftData, CloudKit, Clean Architecture**
+- 🧠 혼자서도 서버부터 클라이언트까지 구현 가능 (Firebase Functions, Spring)
+- 📱 사용자 경험과 인터랙션을 설계하는 걸 좋아합니다.
+- 🌊 사이드 프로젝트: “두섭이”, “필링”, “시장에 가면”, “라이너”, “키득이”
+
+---
+
+## 🧩 Tech Stack
+
+| 카테고리 | 기술 |
+|-----------|------|
+| **언어** | Swift, SwiftUI, RxSwift, UIKit, Python, XCTest |
+| **라이브러리** | SnapKit, Alamofire, Kingfisher, IQKeyboard, FCM, SPM |
+| **DB / 백엔드** | CoreData, Realm, Firestore, SwiftData, Firebase Functions |
+| **디자인 패턴** | MVVM, MVC, MVP, Coordinator, Delegate, Clean Architecture |
+| **기능** | Notification, WidgetKit, WatchKit, HealthKit, CloudKit |
+| **협업** | Git, GitHub, Notion, Slack, Teams |
+| **개발 도구** | Figma, Insomnia |
+
+---
+
+## 🛠 Projects
+
+| 이름 | 설명 | 역할 | 링크 |
+|------|------|------|------|
+| **두섭이** | 파도 기록/통계 iOS 앱 🌊 | iOS, 백엔드 (Firestore + Functions) | [🔗 GitHub](https://github.com/yourname/DoSurfApp) |
+| **필링** | 약 복용 주기 관리 앱 💊 | iOS | [🔗 GitHub](https://github.com/yourname/PillingApp) |
+| **시장에 가면** | 전통시장 소개 앱 🛍️ | iOS | - |
+| **라이너** | 커뮤니티 + 로깅 앱 ✏️ | iOS, 백엔드 | - |
+| **키득이** | 어린이 핀테크 교육 앱 💰 | iOS, 백엔드 | - |
+
+> 각 프로젝트 이미지는 `assets/projects/` 폴더에 넣고, 아래처럼 표시할 수 있어요 👇  
+> `![doseop](./assets/projects/doseop.png)`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=piriram&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piriram&layout=compact&theme=swift)
+
+</div>
+
+---
+
+## 🌐 Contact
+
+📮 **Email:** [pyoram25@naver.com](mailto:pyoram25@naver.com)  
+✍️ **Blog:** [velog.io/@pirirram22](https://velog.io/@pirirram22)
+
+---
+
+## 🐚 Quote
+
+> “좋은 코드는 사람을 위한 디자인이다.”  
+> — Clean Architecture를 믿는 iOS 개발자
+
+---
+
+## 🪩 Fun Fact
+- Surfing 🏄‍♀️ · Diving 🤿 · Coffee ☕  
+- 버그 해결 후 커밋 메시지는 “🌊 all clear!”  
+
+---
+
+<div align="center">
+  
+💡 *“작지만 단단한 코드로, 유저의 하루를 바꿉니다.”*  
+
+</div>
