@@ -29,22 +29,39 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/SnapKit-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/watchOS-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase%20Functions-FFA611?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/CloudKit-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoreML-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vision-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdMob-FF6F00?style=for-the-badge&logo=googleads&logoColor=white" />
 </p>
+
 
 | 카테고리 | 기술 |
 |-----------|------|
-| **언어** | Swift, SwiftUI, RxSwift, UIKit, Python, XCTest |
-| **라이브러리** | SnapKit, Alamofire, Kingfisher, IQKeyboard, FCM, SPM |
-| **DB / 백엔드** | CoreData, Realm, Firestore, SwiftData, Firebase Functions |
-| **디자인 패턴** | MVVM, MVC, MVP, Coordinator, Delegate, Clean Architecture |
-| **기능** | Notification, WidgetKit, WatchKit, HealthKit, CloudKit |
-| **협업** | Git, GitHub, Notion, Slack, Teams |
-| **개발 도구** | Figma, Insomnia |
+| **언어 & 프레임워크** | Swift, SwiftUI, UIKit, RxSwift, Python, Java, XCTest |
+| **아키텍처 & 패턴** | MVVM, Clean Architecture, Coordinator, Delegate, DTO, DI, SOLID |
+| **UI & 레이아웃** | SnapKit, Auto Layout, Custom Views, Design System |
+| **네트워킹 & 데이터 연동** | Alamofire, URLSession, RESTful API, WebSocket, Firebase REST API, Codable |
+| **데이터 관리 & 백엔드** | CoreData, Realm, Firestore, SwiftData, Firebase Functions |
+| **알림 & 백그라운드** | APNs, FCM(원격 푸시), Local Push Notification, UserNotifications |
+| **시스템 기능 연동** | App Groups, Widget Extension, WatchKit, HealthKit, Vision, CoreMotion, CoreLocation, CloudKit |
+| **분석 & 머신러닝** | Google Analytics (GA4), Firebase Analytics, CoreML |
+| **테스트 & 품질 관리** | TDD, Unit Testing (XCTest), Conventional Commits |
+| **CI/CD & 배포** | GitHub Actions, Fastlane, AWS, Docker |
+| **협업 & 버전 관리** | Git, GitHub, Notion, Slack, Teams |
+| **디자인 & API 도구** | Figma, Postman, Insomnia, Swagger |
+| **개발 환경 & 빌드 도구** | Swift Package Manager (SPM), Jupyter Notebook |
+
+
 
 ---
 
@@ -55,10 +72,10 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 | 이름 | 설명 | 역할 | 기술 스택 | 링크 |
 |------|------|------|-----------|------|
 | **두섭이** | 파도 기록/통계 앱 | iOS, 백엔드 | Swift · RxSwift · MVVM · Firestore · Cloud Functions | [GitHub](https://github.com/piriram/DoSurf-iOS) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
-| **필링** | 약 복용 주기 관리 앱 | iOS | Swift · UIKit · RxSwift · CoreData | [GitHub](https://github.com/piriram/Pilling-iOS) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
-| **프레임밋** | K-Pop 팬덤 앱 | iOS | Swift · SwiftUI · Firebase · SPM | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
+| **필링** | 약 복용 주기 관리 앱 | iOS | UIKit · RxSwift · CoreData · XCTest | [GitHub](https://github.com/piriram/Pilling-iOS) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
+| **프레임밋** | K-Pop 팬덤 앱 | iOS | SwiftUI · UIKit · Firebase · SPM | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
 | **시장에 가면** | 전통시장 소개 앱 | iOS | Swift · SwiftUI · MVVM · Spring | [GitHub](https://github.com/piriram/MarketGo)|
-| **라이너** | 커뮤니티 + 로깅 앱 | iOS, 백엔드 | Swift · RxSwift · FCM · Firebase | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
+| **라이너** | 커뮤니티 + 로깅 앱 | iOS, 백엔드 | SwiftUI · RxSwift · FCM · Firebase | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
 | **키득** | 어린이 핀테크 교육 앱 | iOS, 백엔드 | Swift · UIKit · RxSwift · Realm | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
 
 
