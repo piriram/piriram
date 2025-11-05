@@ -80,17 +80,3 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 **Email:** [pyoram25@naver.com](mailto:pyoram25@naver.com)  
 **Blog:** [velog.io/@pirirram22](https://velog.io/@piriram22)
 
----
-
-## Quote
-
-> “좋은 코드는 사람을 위한 디자인이다.”  
-> — Clean Architecture를 믿는 iOS 개발자
-
----
-
-<div align="center">
-  
-*“작지만 단단한 코드로, 유저의 하루를 바꿉니다.”*  
-
-</div>
