@@ -1,6 +1,4 @@
-<div align="center">
-
-![header](./assets/header.png)
+ <div align="center">
 
 # iOS Developer — 김소람
 _유저의 일상을 바꾸는 경험을 설계하는 개발자입니다._  
@@ -64,7 +62,7 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 |-----------|------|
 | **언어 & 프레임워크** | Swift, SwiftUI, UIKit, RxSwift, Python, Java, XCTest |
 | **아키텍처 & 패턴** | MVVM, Clean Architecture, Coordinator, Delegate, DTO, DI, SOLID |
-| **UI & 레이아웃** | SnapKit, Auto Layout, Custom Views, Design System |
+| **UI & 레이아웃** | SnapKit, Auto Layout, Custom Views, Design System, DGChart |
 | **네트워킹 & 데이터 연동** | Alamofire, URLSession, RESTful API, WebSocket, Firebase REST API, Codable |
 | **데이터 관리 & 백엔드** | CoreData, Realm, Firestore, SwiftData, Firebase Functions |
 | **알림 & 백그라운드** | APNs, FCM(원격 푸시), Local Push Notification, UserNotifications |
@@ -92,16 +90,6 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 | **키득** | 어린이 핀테크 교육 앱 | iOS, 백엔드 | Swift · UIKit · RxSwift · Realm | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
 
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=piriram&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piriram&layout=compact&theme=swift)
-
-</div>
 
 ---
 
