@@ -19,14 +19,14 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 - 혼자서도 서버부터 클라이언트까지 구현 가능 (Firebase Functions)
 - 사용자 경험과 인터랙션을 설계하는 걸 좋아합니다.
 - 사이드 프로젝트: “두섭이”, “필링”, "프레임밋" , “시장에 가면”, “라이너”, “키득”
-
+<!--
 ---
 
 ## Tech Stack
 
 <div align="center">
 
-<!-- 개발 중심 스택 -->
+
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
@@ -42,7 +42,7 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
   <img src="https://img.shields.io/badge/watchOS-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-<!-- 운영 및 도구 스택 -->
+
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -75,7 +75,7 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 | **개발 환경 & 빌드 도구** | Swift Package Manager (SPM), Jupyter Notebook |
 
 
-
+-->
 ---
 
 ## Projects
