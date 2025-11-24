@@ -82,12 +82,12 @@ Swift로 현실을 코드로 옮기는 과정을 즐깁니다.
 
 | 이름 | 설명 | 역할 | 기술 스택 | 링크 |
 |------|------|------|-----------|------|
-| **두섭이** | 파도 기록/통계 앱 | iOS, 백엔드 | Swift · RxSwift · MVVM · Firestore · Cloud Functions | [GitHub](https://github.com/piriram/DoSurf-iOS) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
+| **두섭이** | 파도 기록/통계 앱 | iOS, 백엔드 | UIKit · RxSwift · MVVM · Firestore · Cloud Functions | [GitHub](https://github.com/piriram/DoSurf-iOS) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
 | **필링** | 약 복용 주기 관리 앱 | iOS | UIKit · RxSwift · CoreData · XCTest | [GitHub](https://github.com/piriram/Pilling-iOS) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
 | **프레임밋** | K-Pop 팬덤 앱 | iOS | SwiftUI · UIKit · Firebase · SPM | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) <br> [App Store](https://apps.apple.com/app/idXXXXXXXXX) |
-| **시장에 가면** | 전통시장 소개 앱 | iOS | Swift · SwiftUI · MVVM · Spring | [GitHub](https://github.com/piriram/MarketGo)|
-| **라이너** | 커뮤니티 + 로깅 앱 | iOS, 백엔드 | SwiftUI · RxSwift · FCM · Firebase | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
-| **키득** | 어린이 핀테크 교육 앱 | iOS, 백엔드 | Swift · UIKit · RxSwift · Realm | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
+| **시장에 가면** | 전통시장 소개 앱 | iOS | SwiftUI · MVVM · Spring · RestAPI | [GitHub](https://github.com/piriram/MarketGo)|
+| **라이너** | 커뮤니티 + 로깅 앱 | iOS, 백엔드 | SwiftUI · TCA · FCM · Firebase | [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
+| **키득** | 어린이 핀테크 교육 앱 | iOS, 백엔드 | UIKit · RxSwift · Realm · RestAPI| [GitHub](https://github.com/piriram/2024-SW-Convergence-Hackathon)  |
 
 
 
