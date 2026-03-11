@@ -27,7 +27,7 @@ Swift 기반으로 사용자의 일상에 닿는 제품을 만듭니다.
 | **두섭이** | 서핑 기록과 개인화 차트 앱 | iOS, 백엔드 | UIKit / RxSwift / MVVM / Firestore / Live Activity  / WatchConnectivity | [GitHub](https://github.com/piriram/DoSurf-iOS)<br>[Backend](https://github.com/piriram/DoSurf-API)<br>[App Store](https://apps.apple.com/kr/appid6753593506) |
 | **필링** | 피임약 스케쥴러 앱 | iOS | UIKit / RxSwift / Core Data / WidgetKit / XCTest | [GitHub](https://github.com/piriram/Pilling-UIKit)<br>[App Store](https://apps.apple.com/kr/app/pilling/id6753967952) |
 | **프레임밋** | 합성 포토부스 앱 | iOS | SwiftUI / UIKit / AVFoundation / Vision / Core Data | [GitHub](https://github.com/piriram/Frameet-iOS)<br>[App Store](https://apps.apple.com/kr/app/id6737822930) |
-| **방다리** | 직거래형 부동산 서비스 앱 | iOS | SwiftUI / UIKit / MVI / REST API / Socket.IO / MapKit | [GitHub](https://github.com/pyoram25/Bangdari-SwiftUI) |
+| **방다리** | 직거래형 부동산 서비스 앱 | iOS | SwiftUI / UIKit / MVI / REST API / Socket.IO / MapKit | [GitHub](https://github.com/piriram/Bangdari-SwiftUI) |
 | **키득** | 어린이 금융 교육 앱 | iOS | UIKit / RxSwift / Realm / SpriteKit / REST API | [GitHub](https://github.com/piriram/KIDK-iOS) |
 
 ---
