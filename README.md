@@ -34,5 +34,5 @@ Swift 기반으로 사용자의 일상에 닿는 제품을 만듭니다.
 
 ## Contact
 
-- Email: [pyoram25@naver.com](mailto:pyoram25@naver.com)
+- Email: [piriram22@naver.com](mailto:piriram22@naver.com)
 - Velog: [velog.io/@piriram22](https://velog.io/@piriram22)
