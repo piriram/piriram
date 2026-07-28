@@ -1,38 +1,60 @@
-<div align="center">
+# 안녕하세요, 저는 임베디드 SW를 공부하고 있는 김소람입니다.
 
-# iOS Developer - 김소람
-_일상의 불편을 끝까지 해결하는 iOS 개발자_
-Swift 기반으로 사용자의 일상에 닿는 제품을 만듭니다.
+> "소프트웨어의 신뢰성은 결국 하드웨어를 얼마나 이해하느냐에 달려 있다"
 
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@piriram22)
-[![Mail Badge](https://img.shields.io/badge/Email-pyoram25@naver.com-D14836?logo=gmail&logoColor=white)](mailto:pyoram25@naver.com)
-
-</div>
+iOS 앱 4건을 직접 출시하고, TTA에서 소프트웨어 품질 검증 인턴으로 근무하며 결함 재현과 엣지 케이스 분석을 체득했습니다.  
+검증 업무 중 "소프트웨어의 안정성은 결국 하위 계층의 동작 원리에서 비롯된다"는 것을 절감하고, 임베디드 SW 개발로 전향했습니다.
 
 ---
 
-## About Me
+## 🔧 Embedded SW
 
-- 일상에서 반복되는 불편을 지나치지 않고, 실제로 쓰이는 앱으로 풀어냅니다.
-- 인증, 동기화, 위젯, 규칙 기반 로직처럼 사용성에 직접 닿는 문제를 구조적으로 정리해왔습니다.
-- UIKit / RxSwift / MVVM 중심으로 개발해왔습니다.
-- 작은 기능도 끝까지 다듬어 사용자에게 자연스럽게 닿는 경험을 만드는 것을 좋아합니다.
+현재 STM32 Bare-metal 기반으로 드라이버를 직접 구현하며 실력을 쌓는 중입니다.
 
----
+| 저장소 | 내용 | 기술 |
+|--------|------|------|
+| 🚧 **stm32-imu-can-node** (준비 중) | MPU6050 IMU → CAN 전송 시스템. I2C 드라이버, 상보필터, CAN 송수신 | `C` `STM32F103` `I2C` `CAN` |
+| 🚧 **stm32-bare-metal-drivers** (준비 중) | GPIO / UART / I2C / CAN 드라이버 레지스터 직접 구현 | `C` `Bare-metal` `STM32` |
 
-## Projects
-
-| 이름 | 설명 | 역할 | 기술 스택 | 링크 |
-|------|------|------|-----------|------|
-| **두섭이** | 서핑 기록과 개인화 차트 앱 | iOS, 백엔드 | UIKit / RxSwift / MVVM / Firestore / Live Activity  / WatchConnectivity | [GitHub](https://github.com/piriram/DoSurf-iOS)<br>[Backend](https://github.com/piriram/DoSurf-API)<br>[App Store](https://apps.apple.com/kr/appid6753593506) |
-| **필링** | 피임약 스케쥴러 앱 | iOS | UIKit / RxSwift / Core Data / WidgetKit / XCTest | [GitHub](https://github.com/piriram/Pilling-UIKit)<br>[App Store](https://apps.apple.com/kr/app/pilling/id6753967952) |
-| **프레임밋** | 합성 포토부스 앱 | iOS | SwiftUI / UIKit / AVFoundation / Vision / Core Data | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess)<br>[App Store](https://apps.apple.com/kr/app/id6737822930) |
-| **방다리** | 직거래형 부동산 서비스 앱 | iOS | SwiftUI / UIKit / MVI / REST API / Socket.IO / MapKit | [GitHub](https://github.com/piriram/Bangdari-SwiftUI) |
-| **키득** | 어린이 금융 교육 앱 | iOS | UIKit / RxSwift / Realm / SpriteKit / REST API | [GitHub](https://github.com/piriram/KIDK-iOS) |
+**진행 상황 (2026.07 기준):**
+- ✅ STM32F103 개발환경 셋업 (ST-Link, CubeIDE)
+- ✅ GPIO / UART 레지스터 직접 제어
+- ✅ I2C HAL — MPU6050 데이터 수신, 상보필터로 Roll/Pitch 안정화
+- ✅ I2C Bit-banging 챌린지 (SCL/SDA 레지스터 직접 토글)
+- 🔄 CAN 루프백 (TJA1050, bxCAN 레지스터) — 진행 중
 
 ---
 
-## Contact
+## 🍎 iOS (이전 경력)
 
-- Email: [piriram22@naver.com](mailto:piriram22@naver.com)
-- Velog: [velog.io/@piriram22](https://velog.io/@piriram22)
+<details>
+<summary>Swift / UIKit 기반 iOS 앱 4건 출시 (클릭해서 보기)</summary>
+
+| 프로젝트 | 링크 | 설명 |
+|----------|------|------|
+| DoSurf | [GitHub](https://github.com/piriram/DoSurf-iOS) · [App Store](https://apps.apple.com/kr/app/id6753593506) | 서핑 포인트 정보 앱 |
+| Pilling | [GitHub](https://github.com/piriram/Pilling-UIKit) · [App Store](https://apps.apple.com/kr/app/pilling/id6753967952) | 복약 관리 앱 |
+| MacC 2024 | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) · [App Store](https://apps.apple.com/kr/app/id6737822930) | Apple MacC 프로젝트 |
+| Bangdari | [GitHub](https://github.com/piriram/Bangdari-SwiftUI) | SwiftUI 전통시장 정보 앱 |
+
+**주요 기술:** Swift · UIKit · RxSwift · MVVM · SwiftUI
+
+</details>
+
+---
+
+## 🛠 Tech Stack
+
+```
+Embedded : C · STM32F103 · STM32CubeIDE · ARM GCC · ST-Link
+Protocol : I2C · UART · CAN (학습 중)
+iOS      : Swift · UIKit · RxSwift · MVVM · SwiftUI
+기타      : Linux (SSH, 프로세스 관리) · Git
+```
+
+---
+
+## 📬 Contact
+
+- **Email:** piriram22@naver.com
+- **Velog (TIL):** [velog.io/@piriram22](https://velog.io/@piriram22)
