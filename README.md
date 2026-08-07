@@ -1,60 +1,52 @@
-# 안녕하세요, 저는 임베디드 SW를 공부하고 있는 김소람입니다.
+# 김소람 | Embedded Software Engineer
 
-> "소프트웨어의 신뢰성은 결국 하드웨어를 얼마나 이해하느냐에 달려 있다"
+센서 데이터 수집부터 자세 추정까지 구현하고, 문제를 재현 가능한 근거로 좁혀가는 소프트웨어 개발자입니다.
 
-iOS 앱 4건을 직접 출시하고, TTA에서 소프트웨어 품질 검증 인턴으로 근무하며 결함 재현과 엣지 케이스 분석을 체득했습니다.  
-검증 업무 중 "소프트웨어의 안정성은 결국 하위 계층의 동작 원리에서 비롯된다"는 것을 절감하고, 임베디드 SW 개발로 전향했습니다.
+STM32 펌웨어 개발, TTA 소프트웨어 품질 검증, iOS 제품 출시 경험을 바탕으로 동작 원리를 이해하고 검증 가능한 결과를 만드는 데 집중합니다.
 
----
+## Featured Project
 
-## 🔧 Embedded SW
+### [STM32 IMU Attitude Estimation](https://github.com/piriram/stm32-imu-can-node)
 
-현재 STM32 Bare-metal 기반으로 드라이버를 직접 구현하며 실력을 쌓는 중입니다.
+STM32F103C8T6에서 MPU6050의 6축 IMU 데이터를 수집하고 Roll/Pitch 자세각을 계산하는 펌웨어입니다.
 
-| 저장소 | 내용 | 기술 |
-|--------|------|------|
-| 🚧 **stm32-imu-can-node** (준비 중) | MPU6050 IMU → CAN 전송 시스템. I2C 드라이버, 상보필터, CAN 송수신 | `C` `STM32F103` `I2C` `CAN` |
-| 🚧 **stm32-bare-metal-drivers** (준비 중) | GPIO / UART / I2C / CAN 드라이버 레지스터 직접 구현 | `C` `Bare-metal` `STM32` |
+- MPU6050 I2C Driver와 14-byte Burst Read 구현
+- Accelerometer와 Gyroscope 데이터 기반 Roll/Pitch 계산
+- Complementary Filter로 Noise와 Drift 보정
+- UART Log와 SWD Live Expressions를 활용한 데이터 검증
+- CMake 기반 ARM Cross Compile 및 GitHub Actions 자동 빌드
 
-**진행 상황 (2026.07 기준):**
-- ✅ STM32F103 개발환경 셋업 (ST-Link, CubeIDE)
-- ✅ GPIO / UART 레지스터 직접 제어
-- ✅ I2C HAL — MPU6050 데이터 수신, 상보필터로 Roll/Pitch 안정화
-- ✅ I2C Bit-banging 챌린지 (SCL/SDA 레지스터 직접 토글)
-- 🔄 CAN 루프백 (TJA1050, bxCAN 레지스터) — 진행 중
+`C` `STM32F103` `MPU6050` `I2C` `UART` `CMake` `GitHub Actions`
 
----
+## Experience
 
-## 🍎 iOS (이전 경력)
+- **한국정보통신기술협회(TTA), SW 품질 검증 인턴:** GS 인증 대상 9개 제품의 기능, 회귀, 성능 시험을 수행하고 결함을 재현 가능한 형태로 정리했습니다.
+- **Apple Developer Academy @ POSTECH:** iOS 프로젝트 4건을 개발하고 3건을 App Store에 출시하며 기획부터 배포까지 제품 개발 전 과정을 경험했습니다.
+
+## Software Projects
 
 <details>
-<summary>Swift / UIKit 기반 iOS 앱 4건 출시 (클릭해서 보기)</summary>
+<summary>iOS 프로젝트 보기</summary>
 
 | 프로젝트 | 링크 | 설명 |
-|----------|------|------|
-| DoSurf | [GitHub](https://github.com/piriram/DoSurf-iOS) · [App Store](https://apps.apple.com/kr/app/id6753593506) | 서핑 포인트 정보 앱 |
-| Pilling | [GitHub](https://github.com/piriram/Pilling-UIKit) · [App Store](https://apps.apple.com/kr/app/pilling/id6753967952) | 복약 관리 앱 |
-| MacC 2024 | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) · [App Store](https://apps.apple.com/kr/app/id6737822930) | Apple MacC 프로젝트 |
-| Bangdari | [GitHub](https://github.com/piriram/Bangdari-SwiftUI) | SwiftUI 전통시장 정보 앱 |
-
-**주요 기술:** Swift · UIKit · RxSwift · MVVM · SwiftUI
+|---|---|---|
+| DoSurf | [GitHub](https://github.com/piriram/DoSurf-iOS) / [App Store](https://apps.apple.com/kr/app/id6753593506) | 서핑 포인트 정보 및 기록 앱 |
+| Pilling | [GitHub](https://github.com/piriram/Pilling-UIKit) / [App Store](https://apps.apple.com/kr/app/pilling/id6753967952) | 복약 알림 및 기록 앱 |
+| MacC 2024 | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) / [App Store](https://apps.apple.com/kr/app/id6737822930) | Apple Developer Academy 팀 프로젝트 |
+| Bangdari | [GitHub](https://github.com/piriram/Bangdari-SwiftUI) | SwiftUI 기반 전통시장 정보 앱 |
 
 </details>
 
----
+## Tech Stack
 
-## 🛠 Tech Stack
-
-```
-Embedded : C · STM32F103 · STM32CubeIDE · ARM GCC · ST-Link
-Protocol : I2C · UART · CAN (학습 중)
-iOS      : Swift · UIKit · RxSwift · MVVM · SwiftUI
-기타      : Linux (SSH, 프로세스 관리) · Git
+```text
+Embedded  : C, STM32F103, STM32 HAL, I2C, UART
+Tooling   : STM32CubeIDE, STM32CubeMX, ARM GNU Toolchain, CMake, GitHub Actions, ST-Link
+Quality   : Software Testing, Regression Testing, Defect Reproduction
+Software  : Swift, UIKit, SwiftUI, RxSwift, Git, Linux
 ```
 
----
+## Contact
 
-## 📬 Contact
-
-- **Email:** piriram22@naver.com
-- **Velog (TIL):** [velog.io/@piriram22](https://velog.io/@piriram22)
+- **Email:** piriram22@gmail.com
+- **Velog:** [velog.io/@piriram22](https://velog.io/@piriram22)
