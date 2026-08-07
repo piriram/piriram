@@ -32,7 +32,7 @@ STM32F103C8T6에서 MPU6050의 6축 IMU 데이터를 수집하고 Roll/Pitch 자
 |---|---|---|
 | DoSurf | [GitHub](https://github.com/piriram/DoSurf-iOS) / [App Store](https://apps.apple.com/kr/app/id6753593506) | 서핑 포인트 정보 및 기록 앱 |
 | Pilling | [GitHub](https://github.com/piriram/Pilling-UIKit) / [App Store](https://apps.apple.com/kr/app/pilling/id6753967952) | 복약 알림 및 기록 앱 |
-| MacC 2024 | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) / [App Store](https://apps.apple.com/kr/app/id6737822930) | Apple Developer Academy 팀 프로젝트 |
+| MacC 2024 | [GitHub](https://github.com/piriram/2024-MacC-M4-6princess) / [App Store](https://apps.apple.com/kr/app/id6737822930) | 아카데미 MacC 팀프로젝트 |
 | Bangdari | [GitHub](https://github.com/piriram/Bangdari-SwiftUI) | SwiftUI 기반 전통시장 정보 앱 |
 
 </details>
