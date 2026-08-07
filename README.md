@@ -21,12 +21,12 @@ STM32F103C8T6에서 MPU6050의 6축 IMU 데이터를 수집하고 Roll/Pitch 자
 ## Experience
 
 - **한국정보통신기술협회(TTA), SW 품질 검증 인턴:** GS 인증 대상 9개 제품의 기능, 회귀, 성능 시험을 수행하고 결함을 재현 가능한 형태로 정리했습니다.
-- **Apple Developer Academy @ POSTECH:** iOS 프로젝트 4건을 개발하고 3건을 App Store에 출시하며 기획부터 배포까지 제품 개발 전 과정을 경험했습니다.
+- **Apple Developer Academy @ POSTECH:** iOS 앱 4건을 App Store에 출시하며 기획부터 배포까지 제품 개발 전 과정을 경험했습니다.
 
 ## Software Projects
 
 <details>
-<summary>iOS 프로젝트 보기</summary>
+<summary>대표 iOS 프로젝트 보기</summary>
 
 | 프로젝트 | 링크 | 설명 |
 |---|---|---|
