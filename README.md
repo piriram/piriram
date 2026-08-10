@@ -6,7 +6,7 @@ STM32 펌웨어 구현과 iOS 제품 출시 경험을 바탕으로 동작 원리
 
 ## Featured Project
 
-### [STM32 IMU Attitude Estimation](https://github.com/piriram/stm32-imu-can-node)
+### [STM32 IMU Attitude Estimation](https://github.com/piriram/stm32-imu-telemetry)
 
 STM32F103C8T6에서 MPU6050의 6축 IMU 데이터를 수집하고 Roll/Pitch 자세각을 계산하는 펌웨어입니다.
 
